@@ -1,0 +1,28 @@
+name: Chunk Solutions Portfolio
+favicon: null
+layout_spectrum: 0.3351764327380806
+typography_spectrum: 0.6450676484964788
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.37181934295222163
+  lightness: 0.2806849640328437
+  saturation: 0.7896263645961881
+  rhythmicContrast: 0.6549821048974991
+purpose: []
